@@ -108,11 +108,9 @@ To join a reputed organization and grow along with it, thereby enriching and enh
 
 <p align="center"> 
   <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats" target="_blank">
+  <a href="https://git.io/streak-stats">
     <img 
-      src="(https://github-readme-streak-stats.herokuapp.com?user=punit1407&theme=blueberry-duo&hide_border=true&border_radius=20&card_width=500&card_height=170)" 
-      alt="GitHub Streak" 
-      width="100%"
+      src="https://streak-stats.demolab.com?user=punit1407&theme=meta-dark" alt="GitHub Streak"
     />
   </a>
 </p>
