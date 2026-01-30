@@ -104,14 +104,17 @@ To join a reputed organization and grow along with it, thereby enriching and enh
 
 ### Github Stats 📈
 ---
-<p align="center">
+
+<p align="center"> 
+  <!-- GitHub Streak -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=punit1407&theme=dark&hide_border=true"
+    <img 
+      src="https://streak-stats.demolab.com?user=punit1407&theme=dark&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
 </p>
+
 
 
 ---
