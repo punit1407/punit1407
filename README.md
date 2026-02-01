@@ -100,14 +100,11 @@ To join a reputed organization where I can grow professionally while enhancing m
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=punit1407&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=punit1407&show_icons=true&theme=dark&hide_border=true" height="170"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=punit1407&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punit1407&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
+![Punit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punit1407&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punit1407&layout=compact&theme=dark&hide_border=true)
 
 
 ---
