@@ -1,8 +1,8 @@
 # Hello 👋, I'm Punit Singh
 
-***Believe In (CLCI) - Continuous Learning Continuous Improvement***
+***Believe In (CLCP) - Continuous Learning Continuous Practice***
 
-#### As an enthusiastic candidate, with wealth of more then 4 years of Industry Experience. 
+#### As an enthusiastic candidate, with wealth of more then 5.6 years of Industry Experience. 
 I bring strong expertise in 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. I have worked extensively with 𝐋𝐢𝐧𝐮𝐱, 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐇𝐮𝐛, D𝐨𝐜𝐤𝐞𝐫, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦, 𝐀𝐧𝐬𝐢𝐛𝐥𝐞, implementing full 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 and optimizing cloud infrastructure for efficiency and scalability.
 
 I excel in workload management and timely delivery, with proven experience leading teams and managing clients effectively. My background combines technical knowledge with service and management skills, enabling me to deliver reliable solutions while driving collaboration and innovation.
