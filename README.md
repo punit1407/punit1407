@@ -2,9 +2,9 @@
 
 ***Believe In (CLCP) - Continuous Learning Continuous Practice***
 
-#### AWS Cloud & DevOps Engineer | 5.6+ Years of Industry Experience
+#### AWS Cloud & DevOps Engineer | 6 Years of Industry Experience
 
-I am an enthusiastic and dedicated professional with **5.6+ years of industry experience**, bringing strong expertise in **AWS Cloud and DevOps technologies**. I have hands-on experience with **Linux, Git/GitHub, Docker, Jenkins, Kubernetes, Terraform, and Ansible**, implementing end-to-end **CI/CD pipelines** and optimizing cloud infrastructure for scalability, performance, and cost efficiency.
+I am an enthusiastic and dedicated professional with **6 years of industry experience**, bringing strong expertise in **AWS Cloud and DevOps technologies**. I have hands-on experience with **Linux, Git/GitHub, Docker, Jenkins, Kubernetes, Terraform, and Ansible**, implementing end-to-end **CI/CD pipelines** and optimizing cloud infrastructure for scalability, performance, and cost efficiency.
 
 I excel in workload management and timely delivery, with proven experience in leading teams and managing client requirements effectively. My background combines strong technical knowledge with service and management skills, enabling me to deliver reliable solutions while driving collaboration and innovation.
 
@@ -42,17 +42,15 @@ I excel in workload management and timely delivery, with proven experience in le
 
 | Category                  | Tools / Skills |
 |---------------------------|----------------|
-| Cloud                     | AWS |
+| Cloud                     | AWS | Azure
 | Operating System          | Linux (Ubuntu) |
 | Scripting                 | Bash |
-| Version Control           | Git, GitHub |
+| Version Control           | Git, GitHub | Github-Action |
 | Containerization          | Docker |
 | CI / CD                   | Jenkins, GitHub Actions |
 | Infrastructure as Code    | Terraform |
 | Configuration Management  | Ansible |
 | Orchestration             | Kubernetes |
-| Programming Language      | Java |
-| Core Concepts             | Data Structures & Algorithms |
 | Documentation             | Technical Documentation |
 
 ---
